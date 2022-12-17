@@ -1,0 +1,23 @@
+﻿*{
+    font-family: 'Times New Roman', Times, serif;
+    margin:0;
+}
+
+
+header{
+    background-color: grey;
+    color: black;
+    font-size:32px;
+}
+
+header a{
+    margin:10px;
+}
+
+main{
+    margin: 10px;
+}
+
+footer{
+    margin:10px;
+}
